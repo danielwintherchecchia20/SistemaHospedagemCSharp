@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\bin\Debug\net8.0\DesafioProjetoHospedagem.exe
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\bin\Debug\net8.0\DesafioProjetoHospedagem.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\bin\Debug\net8.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\bin\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\bin\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\DIO\hospedagem_hotel-csharp-main\hospedagem_hotel-csharp-main\obj\Debug\net8.0\ref\DesafioProjetoHospedagem.dll
